@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.0613f0e7.css",
+    "main.js": "/react-app/static/js/main.76b6756f.js",
+    "static/media/pexels-stywo-1261728.jpg": "/react-app/static/media/pexels-stywo-1261728.8de26c65a39fe7688333.jpg",
+    "index.html": "/react-app/index.html",
+    "main.0613f0e7.css.map": "/react-app/static/css/main.0613f0e7.css.map",
+    "main.76b6756f.js.map": "/react-app/static/js/main.76b6756f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0613f0e7.css",
+    "static/js/main.76b6756f.js"
+  ]
+}
